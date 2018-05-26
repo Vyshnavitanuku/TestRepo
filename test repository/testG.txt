@@ -1,0 +1,3 @@
+main textG 01
+main textG 02
+main textG 03
