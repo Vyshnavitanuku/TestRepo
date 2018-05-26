@@ -1,3 +1,0 @@
-main textF 01
-main textF 02
-main textF 03
